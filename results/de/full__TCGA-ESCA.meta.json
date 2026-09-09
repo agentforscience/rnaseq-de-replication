@@ -1,0 +1,1 @@
+{"cohort": "TCGA-ESCA", "tag": "full__TCGA-ESCA", "n_per_group": null, "seed": 0, "runs": null, "shuffle": false, "n_samples": 197, "n_genes_tested": 17634, "n_tumor": 184, "n_normal": 13, "seconds": 125.5}

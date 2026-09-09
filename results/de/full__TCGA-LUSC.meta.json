@@ -1,0 +1,1 @@
+{"cohort": "TCGA-LUSC", "tag": "full__TCGA-LUSC", "n_per_group": null, "seed": 0, "runs": null, "shuffle": false, "n_samples": 555, "n_genes_tested": 17415, "n_tumor": 504, "n_normal": 51, "seconds": 143.7}

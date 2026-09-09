@@ -1,0 +1,1 @@
+{"cohort": "TCGA-STAD", "tag": "full__TCGA-STAD", "n_per_group": null, "seed": 0, "runs": null, "shuffle": false, "n_samples": 453, "n_genes_tested": 17534, "n_tumor": 416, "n_normal": 37, "seconds": 131.7}

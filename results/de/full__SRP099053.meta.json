@@ -1,0 +1,1 @@
+{"cohort": "SRP099053", "tag": "full__SRP099053", "n_per_group": null, "seed": 0, "runs": null, "shuffle": false, "n_samples": 42, "n_genes_tested": 16117, "n_tumor": 21, "n_normal": 21, "seconds": 99.1}

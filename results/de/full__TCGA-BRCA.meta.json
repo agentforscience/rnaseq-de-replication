@@ -1,0 +1,1 @@
+{"cohort": "TCGA-BRCA", "tag": "full__TCGA-BRCA", "n_per_group": null, "seed": 0, "runs": null, "shuffle": false, "n_samples": 1249, "n_genes_tested": 17081, "n_tumor": 1135, "n_normal": 114, "seconds": 173.9}

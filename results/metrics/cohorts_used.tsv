@@ -1,0 +1,52 @@
+cohort	source	cancer_type	n_tumor	n_normal	platform	layout	study_title
+TCGA-BRCA	tcga	BRCA	1135	114	Illumina HiSeq	paired	TCGA BRCA
+SRP157974	sra	BRCA	360	88	HiSeq X Ten	paired	Fudan University Shanghai Cancer Center Triple Negative Breast Cancer (FUSCCTNBC)
+SRP218935	sra	BRCA	76	19	Illumina HiSeq X Ten	paired	Homo sapiens Raw sequence reads
+SRP111343	sra	BRCA	58	45	Illumina HiSeq 2000	single	RNAseq analysis of chemotherapy and radiation therapy-naïve breast tumors
+SRP058722	sra	BRCA	25	10	Illumina HiSeq 2000	paired	A Molecular Portrait Of High-Grade Ductal Carcinoma In Situ (DCIS) [RNA-seq]
+SRP023262	sra	BRCA	24	28	Illumina Genome Analyzer IIx	single	A shared transcriptional program in early breast neoplasias despite genetic and clinical distinctions
+SRP116023	sra	BRCA	22	22	Illumina HiSeq 2000	paired	Stranded RNASeq of human mammary primary tumors ER+ and paired adjacent healthy tissues
+SRP062132	sra	BRCA	15	18	Illumina Genome Analyzer II	paired	Next Generation Sequencing Transcriptomes of breast cancer
+SRP156355	sra	BRCA	13	11	Illumina HiSeq 2500	paired	Identification of lncRNA in early stage breast cancer and their prognostic implications
+TCGA-COAD	tcga	COAD	504	41	Illumina HiSeq	paired	TCGA COAD
+SRP029880	sra	COAD	36	18	Illumina HiSeq 2000	paired	Gene expression profiling study by RNA-seq in colorectal cancer
+SRP119775	sra	COAD	10	10	Illumina HiSeq 3000	paired	Differentially expressed LncRNAs and mRNA identified by SEQ analysis in colorectal cancer patients
+TCGA-ESCA	tcga	ESCA	184	13	Illumina HiSeq	paired	TCGA ESCA
+SRP099599	sra	ESCA	46	46	Illumina MiSeq	paired	RNA sequencing of Esophageal adenocarcinomas
+ERP013206	sra	ESCA	44	18	Illumina HiSeq 2500	paired	Whole transcriptome profiling of Esophageal adenocarcinoma and Barrett's
+SRP064894	sra	ESCA	15	14	Illumina HiSeq 2500	paired	Homo sapiens Raw sequence reads
+TCGA-KIRC	tcga	KIRC	545	72	Illumina HiSeq	paired	TCGA KIRC
+SRP114482	sra	KIRC	10	10	Illumina HiSeq 2000	paired	Transcriptomics profiles of patient-matched normal kidney and ccRCC pairs
+TCGA-LIHC	tcga	LIHC	374	50	Illumina HiSeq	paired	TCGA LIHC
+SRP068976	sra	LIHC	49	50	Illumina Genome Analyzer	paired	RNA-seq of 50 paired hepatocellular carcinoma
+SRP174991	sra	LIHC	35	35	HiSeq X Ten	paired	Gene expression profiles of 35 paired HCC and non-tumor tissues by RNA-seq data
+SRP099053	sra	LIHC	21	21	Illumina HiSeq 2500	paired	RNA sequencing (RNA-SEQ) of 21 HBV-HCC patients with non-neoplastic liver and tumor tissues
+SRP062885	sra	LIHC	16	16	Illumina HiSeq 2000	paired	Transcriptome seuqnencing of hepatocellular carcinoma(HCC) patients associated with Hepatitis B Virus(HBV)
+SRP050551	sra	LIHC	12	12	Illumina HiSeq 2000	paired	Promoter hypermethylation of TERT is associated with hepatocellular carcinoma in the Han Chinese population
+SRP118972	sra	LIHC	12	8	Illumina HiSeq 2500	paired	Gene Expression Profile of human hepatocellular carcinoma by RNA sequencing
+SRP137150	sra	LIHC	10	10	Illumina HiSeq 2500	single	Landscapes of gene translation in hepatocellular carcinoma tumors revealed by ribosome profiling
+SRP161530	sra	LIHC	10	10	Illumina HiSeq 4000	paired	Transcriptomic profiling of long non-coding RNAs in non-virus associated hepatocellular carcinoma
+SRP049592	sra	LIHC	10	9	Illumina HiSeq 2500	paired	Genome and transcriptome profiling of fibrolamellar carcinoma [RNA-Seq]
+SRP102722	sra	LIHC	9	9	Illumina HiSeq 2500	paired	Transcriptome sequencing identify a recurrent CRYL1-IFT88 chimeric transcript in hepatocellular carcinoma
+SRP039694	sra	LIHC	8	8	Illumina Genome Analyzer	paired	Promoter methylome and integrative transcriptome profiling identify key epigenetics-regulated genes in human HCCs [expression]
+SRP076032	sra	LIHC	8	19	Illumina HiSeq 2000	single	Human liver RNA-seq data corresponding to uninfected non-malignant, HCV infected non-malignant, and HCV+ HCC tissue
+SRP074349	sra	LUNG	598	70	Illumina HiSeq 2500	paired	Next Generation Sequencing (RNAseq) of non-small cell lung cancer
+SRP125001	sra	LUNG	44	22	Illumina HiSeq 2000	single	Multi-Omic Molecular Profiling of Lung Cancer Risk in Chronic Obstructive Pulmonary Disease
+TCGA-LUSC	tcga	LUSC	504	51	Illumina HiSeq	paired	TCGA LUSC
+SRP079676	sra	LUSC	9	9	Illumina HiSeq 2000	paired	Compared performance of Affymetrix HTA arrays and Illumina RNAseq for the analysis of tumours [RNA-seq]
+TCGA-PRAD	tcga	PRAD	505	52	Illumina HiSeq	paired	TCGA PRAD
+SRP119917	sra	PRAD	44	24	Illumina HiSeq 2500	paired	Homo sapiens Transcriptome or Gene expression
+SRP118614	sra	PRAD	32	32	Illumina HiSeq 2500	paired	RNA sequencing of prostate cancer and normal tissue from African Americans and European Americans
+SRP212704	sra	PRAD	30	30	Illumina HiSeq 2000	paired	Genome wide transcriptome analysis of patient matched prostate cancer using NGS technology
+SRP114904	sra	PRAD	25	25	Illumina HiSeq 2500	paired	TERC, TERT and MYC RNAseq in Prostate Cancer
+SRP027258	sra	PRAD	24	12	Illumina HiSeq 2000	single	Genome-wide transcriptome analysis of the dietary chemopreventive phytochemical sulforaphane on normal and prostate cancer cells.
+SRP002628	sra	PRAD	20	10	Illumina Genome Analyzer II	paired	Comparative transcriptomic analysis of prostate cancer and matched normal tissue using RNA-seq
+SRP148500	sra	PRAD	10	10	Illumina HiSeq 2000	paired	Studies of driver genes in prostate cancer
+TCGA-STAD	tcga	STAD	416	37	Illumina HiSeq	paired	TCGA STAD
+SRP172499	sra	STAD	80	79	Illumina HiSeq 2500	paired	Proteogenomic characterization of human early-onset gastric cancer
+SRP133891	sra	STAD	34	34	Illumina HiSeq 2500	paired	Discovery Korean specific gastric cancer genes and targeted cancer drugs
+TCGA-THCA	tcga	THCA	505	59	Illumina HiSeq	paired	TCGA THCA
+ERP012979	sra	THCA	155	81	Illumina HiSeq 2000	paired	Comprehensive analysis of the transcriptional and mutational landscape of follicular and papillary thyroid cancers
+SRP076801	sra	THCA	12	12	Illumina HiSeq 2500	paired	Genome-wide expression screening discloses long noncoding RNAs involved in thyroid carcinogenesis
+TCGA-UCEC	tcga	UCEC	554	35	Illumina HiSeq	paired	TCGA UCEC
+SRP040442	sra	UCEC	18	18	Illumina HiSeq 2000	paired	Next Generation Sequencing identifying the dosage compensation state in human endometrial carcinoma and adjacent tissues

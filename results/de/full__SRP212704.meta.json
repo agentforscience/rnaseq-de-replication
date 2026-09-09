@@ -1,0 +1,1 @@
+{"cohort": "SRP212704", "tag": "full__SRP212704", "n_per_group": null, "seed": 0, "runs": null, "shuffle": false, "n_samples": 60, "n_genes_tested": 16515, "n_tumor": 30, "n_normal": 30, "seconds": 84.8}

@@ -1,0 +1,1 @@
+{"cohort": "SRP111343", "tag": "m10__SRP111343__s2", "n_per_group": 10, "seed": 2, "runs": null, "shuffle": false, "n_samples": 20, "n_genes_tested": 16421, "n_tumor": 10, "n_normal": 10, "seconds": 223.6}

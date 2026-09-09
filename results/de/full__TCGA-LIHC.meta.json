@@ -1,0 +1,1 @@
+{"cohort": "TCGA-LIHC", "tag": "full__TCGA-LIHC", "n_per_group": null, "seed": 0, "runs": null, "shuffle": false, "n_samples": 424, "n_genes_tested": 16307, "n_tumor": 374, "n_normal": 50, "seconds": 119.9}

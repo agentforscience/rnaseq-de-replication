@@ -1,0 +1,1 @@
+{"cohort": "TCGA-KIRC", "tag": "full__TCGA-KIRC", "n_per_group": null, "seed": 0, "runs": null, "shuffle": false, "n_samples": 617, "n_genes_tested": 16967, "n_tumor": 545, "n_normal": 72, "seconds": 121.8}

@@ -1,0 +1,1 @@
+{"cohort": "SRP050551", "tag": "m10__SRP050551__s0", "n_per_group": 10, "seed": 0, "runs": null, "shuffle": false, "n_samples": 20, "n_genes_tested": 15968, "n_tumor": 10, "n_normal": 10, "seconds": 169.7}
